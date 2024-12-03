@@ -1,18 +1,34 @@
-<h1 align="center">Hi , I'm Ahmed Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hola, Bienvenido a mi Perfil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <img align="right" width=300px alt="Cat busy" src="https://media.tenor.com/Xx2cXbv_tYAAAAAi/peach-cat-goma.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+👋 ¡Hola! Soy Brayn Kalid Reyes Silva, estudiante de ingeniería en Tecnologías de la Información y Desarrollo de Software Multiplataforma. Me apasiona crear experiencias web atractivas y funcionales, explorando tanto el frontend como el backend para ofrecer soluciones completas y efectivas.
+
+🌟 Habilidades:
+Lenguajes de programación: HTML, CSS, JavaScript, Node.js, PHP, Python.
+Bases de datos: MySQL, MongoDB.
+Herramientas de diseño: Adobe XD, Figma.
+Control de versiones: GitLab, GitHub.
+
+🚀 Intereses:
+Estoy especialmente interesado en:
+- Diseño web
+- Desarrollo web
+- Desarrollo Multiplataforma
+- Base de Datos
+- Desarrollo backend
+
+👯 Me encantaría colaborar en:
+Proyectos de código abierto que involucren diseño y desarrollo web, testing o nuevas tecnologías.
+
+✔ Pregúntame sobre:
+Cualquier tema relacionado con desarrollo web o Base de Datos. ¡Estoy listo para ayudar ! 😊
+
+Fuera de la tecnología:
+- 🌍 Me encanta viajar para conocer nuevos lugares y culturas.
+- 🏋️‍♂️ Disfruto hacer ejercicio en el gimnasio para mantenerme activo y saludable.
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
