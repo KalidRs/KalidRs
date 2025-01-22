@@ -1,8 +1,8 @@
 <h1 align="center">Hola, Bienvenido a mi Perfil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<img align="right" width=300px alt="Cat busy" src="https://media.tenor.com/Xx2cXbv_tYAAAAAi/peach-cat-goma.gif" />
+<img align="right" width=300px alt="Cat busy" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lucDJxNjc0eGo4b3c0cHV2aW5iaHdtdW1keG1jbTg3ejc3OWUyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
-## <img src="[https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lucDJxNjc0eGo4b3c0cHV2aW5iaHdtdW1keG1jbTg3ejc3OWUyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)" width="30px">&nbsp;***Sobre mi***
+## width="30px">&nbsp;***Sobre mi***
 
 👋 ¡Hola! Soy Brayn Kalid Reyes Silva, estudiante de ingeniería en Tecnologías de la Información y Desarrollo de Software Multiplataforma. Me apasiona crear experiencias web atractivas y funcionales, explorando tanto el frontend como el backend para ofrecer soluciones completas y efectivas.
 
