@@ -40,15 +40,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BraynKalidRS&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BraynKalidRS&theme=radical" height="180px"/>
-</div>
-
----
-
 ## Contacto
 
 - LinkedIn: https://www.linkedin.com/in/kalid-reyes-759961339  
