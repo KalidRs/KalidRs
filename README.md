@@ -11,11 +11,10 @@
 
 ## Sobre mí
 
--  Actualmente desarrollando plataformas de transparencia ciudadana.
--  Abierto a colaborar en proyectos open source o escolares.
+-  Actualmente desarrollando plataforma de transparencia ciudadana.
+-  Abierto a colaborar en proyectos open source.
 -  Pregúntame sobre: React, FastAPI, PostgreSQL, JWT y más.
 -  Dato curioso: Aprendí a usar Linux por necesidad… y ahora no lo dejo.
--  Me encanta viajar para conocer nuevos lugares y culturas.
 -  Disfruto hacer ejercicio en el gimnasio para mantenerme activo y saludable.
 
 ---
@@ -23,8 +22,8 @@
 ## Tecnologías y herramientas
 
 - **Lenguajes:** JavaScript · TypeScript · Python · Kotlin · PHP · HTML5 · CSS3 · Bash  
-- **Frontend:** React · Vite · TailwindCSS · Chakra UI · Material UI · XML (Android)  
-- **Backend:** Node.js · FastAPI · Express · Laravel (básico)  
+- **Frontend:** React · Vite · Chakra UI · Material UI  
+- **Backend:** Node.js · FastAPI · Express 
 - **Bases de datos:** PostgreSQL · MySQL · MongoDB  
 - **Infraestructura:** NGINX · VPS · GitHub Actions · Cloudflare  
 - **Diseño:** Figma · Adobe XD  
