@@ -7,7 +7,8 @@
 
 ---
 
-<img align="right" width="300" src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
+<img align="right" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhlYjA4a2Z4OWZuaHBpeDNhdGduaDNkdmdvb3Zhd3RzbXQ2eTl3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcy1SP080IEoMkE/giphy.gif" />
+
 
 ## Sobre mí
 
